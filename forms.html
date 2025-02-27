@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loan Management</title>
+</head>
+<body>
+  <h1>Loan Management System</h1>
+
+  <h2>Update Customer Information</h2>
+  <form id="updateCustomerForm">
+    <input type="text" name="name" placeholder="Customer Name" required><br>
+    <input type="text" name="phone" placeholder="Phone Number" required><br>
+    <input type="number" name="total_amount" placeholder="Total Loan Amount" required><br>
+    <input type="number" name="amount_paid" placeholder="Amount Paid" required><br>
+    <input type="text" name="duration_left" placeholder="Duration Left" required><br>
+    <button type="submit">Update Info</button>
+  </form>
+
+  <h2>Send SMS to Customers</h2>
+  <button id="sendSmsButton">Send SMS to All Customers</button>
+
+  <script>
+    document.getElementById("updateCustomerForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const formData = new FormData(e.target);
+      const data = Object.fromEntries(formData.entries());
+
+      const response = await fetch("http://127.0.0.1:5000/update_customer", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data),
+      });
+
+      const result = await response.json();
+      alert(result.message);
+    });
+
+    document.getElementById("sendSmsButton").addEventListener("click", async () => {
+      const response = await fetch("http://127.0.0.1:5000/send_sms", { method: "POST" });
+      const result = await response.json();
+      alert(result.message);
+    });
+  </script>
+</body>
+</html>

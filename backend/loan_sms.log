@@ -1,0 +1,75 @@
+2025-01-21 16:17:57,740 - WARNING -  * Debugger is active!
+2025-01-21 16:17:57,755 - INFO -  * Debugger PIN: 126-143-168
+2025-01-21 16:22:07,343 - INFO - 127.0.0.1 - - [21/Jan/2025 16:22:07] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-21 16:24:02,963 - INFO - 127.0.0.1 - - [21/Jan/2025 16:24:02] "[31m[1mGET /send_sms HTTP/1.1[0m" 405 -
+2025-01-21 16:25:08,781 - INFO - 127.0.0.1 - - [21/Jan/2025 16:25:08] "[31m[1mGET /update_customer HTTP/1.1[0m" 405 -
+2025-01-21 16:32:19,388 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:19] "[35m[1mPOST /send_sms HTTP/1.1[0m" 500 -
+2025-01-21 16:32:20,449 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:20] "[35m[1mPOST /send_sms HTTP/1.1[0m" 500 -
+2025-01-21 16:32:44,292 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:44] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:45,263 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:45] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:45,628 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:45] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:45,874 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:45] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:45,967 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:45] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:46,067 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:46] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:46,126 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:46] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:46,290 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:46] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:53,723 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:53] "[35m[1mPOST /send_sms HTTP/1.1[0m" 500 -
+2025-01-21 16:32:55,348 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:55] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:55,770 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:55] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:55,798 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:55] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:57,438 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:57] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:32:57,524 - INFO - 127.0.0.1 - - [21/Jan/2025 16:32:57] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:33:00,803 - INFO - 127.0.0.1 - - [21/Jan/2025 16:33:00] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:33:00,859 - INFO - 127.0.0.1 - - [21/Jan/2025 16:33:00] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:34:05,801 - INFO - 127.0.0.1 - - [21/Jan/2025 16:34:05] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:34:06,541 - INFO - 127.0.0.1 - - [21/Jan/2025 16:34:06] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:34:06,670 - INFO - 127.0.0.1 - - [21/Jan/2025 16:34:06] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:34:06,732 - INFO - 127.0.0.1 - - [21/Jan/2025 16:34:06] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:34:06,865 - INFO - 127.0.0.1 - - [21/Jan/2025 16:34:06] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:34:06,897 - INFO - 127.0.0.1 - - [21/Jan/2025 16:34:06] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:34:07,521 - INFO - 127.0.0.1 - - [21/Jan/2025 16:34:07] "[35m[1mPOST /send_sms HTTP/1.1[0m" 500 -
+2025-01-21 16:34:08,220 - INFO - 127.0.0.1 - - [21/Jan/2025 16:34:08] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:34:08,419 - INFO - 127.0.0.1 - - [21/Jan/2025 16:34:08] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:34:08,598 - INFO - 127.0.0.1 - - [21/Jan/2025 16:34:08] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:38:37,664 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\odupongkpehercb\\backend\\loan_sms_script.py', reloading
+2025-01-21 16:38:46,749 - WARNING -  * Debugger is active!
+2025-01-21 16:38:46,796 - INFO -  * Debugger PIN: 126-143-168
+2025-01-21 16:40:11,525 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\odupongkpehercb\\backend\\app.py', reloading
+2025-01-21 16:40:12,976 - WARNING -  * Debugger is active!
+2025-01-21 16:40:12,976 - INFO -  * Debugger PIN: 126-143-168
+2025-01-21 16:41:35,425 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\odupongkpehercb\\backend\\app.py', reloading
+2025-01-21 16:41:37,059 - WARNING -  * Debugger is active!
+2025-01-21 16:41:37,059 - INFO -  * Debugger PIN: 126-143-168
+2025-01-21 16:43:13,971 - INFO - 127.0.0.1 - - [21/Jan/2025 16:43:13] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:43:13,976 - INFO - 127.0.0.1 - - [21/Jan/2025 16:43:13] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:43:14,016 - INFO - 127.0.0.1 - - [21/Jan/2025 16:43:14] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:43:14,995 - INFO - 127.0.0.1 - - [21/Jan/2025 16:43:14] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:43:15,131 - INFO - 127.0.0.1 - - [21/Jan/2025 16:43:15] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:43:15,361 - INFO - 127.0.0.1 - - [21/Jan/2025 16:43:15] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:45:02,321 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-21 16:45:02,321 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-21 16:45:02,321 - INFO -  * Restarting with stat
+2025-01-21 16:45:03,496 - WARNING -  * Debugger is active!
+2025-01-21 16:45:03,496 - INFO -  * Debugger PIN: 126-143-168
+2025-01-21 16:45:51,806 - INFO - 127.0.0.1 - - [21/Jan/2025 16:45:51] "[31m[1mGET /send_sms HTTP/1.1[0m" 405 -
+2025-01-21 16:47:18,717 - INFO - 127.0.0.1 - - [21/Jan/2025 16:47:18] "[31m[1mGET /send_sms HTTP/1.1[0m" 405 -
+2025-01-21 16:47:48,598 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\odupongkpehercb\\backend\\app.py', reloading
+2025-01-21 16:47:48,684 - INFO -  * Restarting with stat
+2025-01-21 16:47:51,105 - WARNING -  * Debugger is active!
+2025-01-21 16:47:51,105 - INFO -  * Debugger PIN: 126-143-168
+2025-01-21 16:48:16,077 - INFO - 127.0.0.1 - - [21/Jan/2025 16:48:16] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:48:16,666 - INFO - 127.0.0.1 - - [21/Jan/2025 16:48:16] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:48:16,719 - INFO - 127.0.0.1 - - [21/Jan/2025 16:48:16] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:48:16,882 - INFO - 127.0.0.1 - - [21/Jan/2025 16:48:16] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:48:17,060 - INFO - 127.0.0.1 - - [21/Jan/2025 16:48:17] "OPTIONS /update_customer HTTP/1.1" 200 -
+2025-01-21 16:48:43,393 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\odupongkpehercb\\backend\\app.py', reloading
+2025-01-21 16:48:43,487 - INFO -  * Restarting with stat
+2025-01-21 16:48:44,862 - WARNING -  * Debugger is active!
+2025-01-21 16:48:44,862 - INFO -  * Debugger PIN: 126-143-168
+2025-01-21 16:55:30,610 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-21 16:55:30,610 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-21 16:55:30,610 - INFO -  * Restarting with stat
+2025-01-21 16:55:31,787 - WARNING -  * Debugger is active!
+2025-01-21 16:55:31,790 - INFO -  * Debugger PIN: 126-143-168

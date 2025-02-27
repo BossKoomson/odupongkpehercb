@@ -1,0 +1,11 @@
+2025-01-21 16:48:05,320 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-21 16:48:05,320 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-21 16:48:05,320 - INFO -  * Restarting with stat
+2025-01-21 16:48:06,662 - WARNING -  * Debugger is active!
+2025-01-21 16:48:06,662 - INFO -  * Debugger PIN: 126-143-168
+2025-01-21 16:48:43,905 - INFO -  * Detected change in 'c:\\xampp\\htdocs\\odupongkpehercb\\backend\\app.py', reloading
+2025-01-21 16:48:43,983 - INFO -  * Restarting with stat
+2025-01-21 16:48:45,259 - WARNING -  * Debugger is active!
+2025-01-21 16:48:45,259 - INFO -  * Debugger PIN: 126-143-168
+2025-01-21 16:56:33,113 - INFO - 127.0.0.1 - - [21/Jan/2025 16:56:33] "[31m[1mGET /send_sms HTTP/1.1[0m" 405 -
